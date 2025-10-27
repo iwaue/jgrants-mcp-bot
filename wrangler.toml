@@ -1,0 +1,6 @@
+name = "jgrants-mcp-bot"
+main = "app.py"
+compatibility_date = "2025-10-27"
+
+[build]
+command = "pip install -r requirements.txt"
